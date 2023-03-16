@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KshitizPandya&label=Profile%20views&color=0e75b6&style=flat" alt="KshitizPandya" /> </p>
 
 🌱  I’m currently learning Advanced Python Skills, Working on an interseting Language Processing + CV Project 😉<br>📫 How to reach me: kshitiz.pandya@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ <img src = "https://user-images.githubusercontent.com/110394695/225421810-55977bc4-f341-416b-a7a5-a791a5865b56.png" width = "16" height = "16">
-<br>👨‍💻 All of my projects are available at my Github✌️<br>📝 I regularly write articles on<br>🙇 Follow my recent project at my Organization:<br><a href="https://github.com/PolyGlots-Org">
+<br>👨‍💻 All of my projects are available at my Github✌️<br>🙇 Follow my recent project at my Organization:<br><a href="https://github.com/PolyGlots-Org">
   <img src="https://user-images.githubusercontent.com/110394695/225423158-bfbfb773-395d-4401-ab18-a3e57a0b512e.gif" width="100" height="100">
 </a>
 <br> 
