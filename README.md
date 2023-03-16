@@ -46,4 +46,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Snake 🐍 Eating by contribution Graph 
-![Snake GIF](https://github.com/KshitizPandya/Kshitiz-Pandya/blob/output/github-contribution-grid-snake.svg)
+![Snake GIF](https://github.com/KshitizPandya/KshitizPandya/blob/output/github-contribution-grid-snake.svg)
